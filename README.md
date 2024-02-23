@@ -1,4 +1,4 @@
-# Task Management System
+# Task Management Program
 Welcome to the Task Management System repository! This Python program implements a comprehensive task management system with user authentication. Whether you're managing personal tasks or coordinating with a team, this system provides the tools you need to stay organized and productive.
 ## Features
 User Authentication
